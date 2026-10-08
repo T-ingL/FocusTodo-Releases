@@ -1,0 +1,7 @@
+{
+  "version": "1.0.3",
+  "download_url": "https://github.com/T-ingL/FocusTodo-Releases/releases/download/v1.0.3/FocusTodo-Setup-1.0.3.exe",
+  "release_notes": "1.0.3：支持软件内更新、更新前完整数据备份、覆盖安装及自定义数据目录保留。包含番茄钟、正计时、学习日历、近七天学习时间、每周目标、自定义图标和六种配色。",
+  "sha256": "6587b025ccbf65e6752f5ed9f7f639bb4e1683e61e26a13fcabaa9ecb47c8931",
+  "size": 31701828
+}
