@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/T-ingL/FocusTodo-Releases/releases/download/v1.0.3/FocusTodo-Setup-1.0.3.exe",
-  "release_notes": "1.0.3：支持软件内更新、更新前完整数据备份、覆盖安装及自定义数据目录保留。包含番茄钟、正计时、学习日历、近七天学习时间、每周目标、自定义图标和六种配色。",
-  "sha256": "6587b025ccbf65e6752f5ed9f7f639bb4e1683e61e26a13fcabaa9ecb47c8931",
-  "size": 31701828
+  "version": "1.0.4",
+  "download_url": "https://github.com/T-ingL/FocusTodo-Releases/releases/download/v1.0.4/FocusTodo-Setup-1.0.4.exe",
+  "release_notes": "# 专注时光 1.0.4\n\n- 更新检测改为匿名读取公开仓库的静态 `latest.json`，无需 GitHub 账号或令牌。\n- 新增数据目录内的持久化检查缓存，默认有效期 12 小时；手动检查始终联网，失败保留缓存并明确提示错误。\n- 检测失败分别提示超时、DNS、HTTPS 证书、连接中断、403、429、404、服务器故障及清单格式错误。\n- 保留文件大小和 SHA-256 校验、取消下载、计时中禁止安装、完整数据备份及覆盖安装后重新打开。\n- 保留番茄风格、计时与悬浮窗、学习日历、周目标、配色及自定义图片。\n- 开发流程新增发布后清理：测试、打包、源码推送、正式 Release 和实际下载核验全部成功后，自动清理本地发布产物及专用工具，保留完整源码和 Git 历史。\n\n已经使用 1.0.3 的用户可通过软件检查更新；若旧版检查遇到访问限制，可从公开下载页手动安装 1.0.4 到原目录。学习数据和设置保留。源码与源码 ZIP 仅在私有仓库发布，公开仓库仅提供安装包及说明、校验资料。\n",
+  "sha256": "8baf86449d67b480008b0e810ee91cecd2a92578f52e10adc5debdc90b05461a",
+  "size": 31721199
 }
